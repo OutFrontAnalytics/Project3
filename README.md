@@ -61,8 +61,10 @@ https://www.dnr.state.mn.us/lakefind/showreport.html?downum=21024200
 
 https://www.w3schools.com
 
-MN Dept of Natural Resources
-Stack Overflow				
+MN Dept of Natural Resources,
+
+Stack Overflow,
+
 EdX Lessons`
 
 

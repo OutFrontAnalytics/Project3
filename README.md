@@ -61,13 +61,13 @@ https://www.dnr.state.mn.us/lakefind/showreport.html?downum=21024200
 
 https://www.w3schools.com
 
+MN Dept of Natural Resources
+Stack Overflow				
+EdX Lessons`
 
 
 We would like to acknowledge the below for their help with content and coding:
-Ms.cCharla Garcia		
-Stack Overflow				
-EdX Lessons`
-Mr. Jason Leppelmeier	
-MN Dept of Natural Resources	
-Mr. Saad Khan			
+Ms.Charla Garcia,		
+Mr. Jason Leppelmeier,	
+Mr. Saad Khan,
 & Family

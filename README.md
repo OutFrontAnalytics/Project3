@@ -43,3 +43,31 @@ Visulizations:
 <img width="306" alt="image" src="https://user-images.githubusercontent.com/118495850/234182164-e4c7b2aa-7a38-4a84-80b6-3578495decac.png">
 
 
+References:
+
+https://nas.er.usgs.gov/queries/SpeciesAnimatedMap.aspx
+
+https://leaflet-extras.github.io/leaflet-providers/preview/
+
+https://github.com/iamtekson/Leaflet-Basic/tree/master/marker-cluster
+
+https://github.com/Leaflet/Leaflet.markercluster
+
+https://cdn.plot.ly/plotly-latest.min.js
+
+https://github.com/Mappy/Leaflet-active-area/blob/master/examples/index.html
+
+https://www.dnr.state.mn.us/lakefind/showreport.html?downum=21024200
+
+https://www.w3schools.com
+
+
+
+We would like to acknowledge the below for their help with content and coding:
+Ms.cCharla Garcia		
+Stack Overflow				
+EdX Lessons`
+Mr. Jason Leppelmeier	
+MN Dept of Natural Resources	
+Mr. Saad Khan			
+& Family

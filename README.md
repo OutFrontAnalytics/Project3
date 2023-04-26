@@ -1,6 +1,6 @@
 PROJECT 3
 
-Title: Analysis of freshwater Invasive Species in Minnesota.
+Title: Freshwater Invasive Species in Minnesota.
 
 Team members: Sunita Kumari, Jack Lowry, Arunkumar Sridharan, and John Muir
 
